@@ -21,13 +21,15 @@ Este script requiere tener instalado python y las siguientes librerías:
 
 ### Estructura de carpetas necesaria:
 
+```
 PDFtoJPG/
 ├── script/
-│ └── convert.pyw
+│      └── convert.pyw
 ├── entrada/
-│ └── (coloca aquí tus archivos PDF)
+│      └── (coloca aquí tus archivos PDF)
 └── salida/
-└── (aquí aparecerán las imágenes JPG convertidas)
+       └── (aquí aparecerán las imágenes JPG convertidas)
+```
 
 ## Uso
 
